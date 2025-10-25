@@ -4,6 +4,8 @@
 
 - **_About me:_** [My Linktr.ee](https://linktr.ee/juan3178)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juan3178316&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **juan3178316/juan3178316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
