@@ -20,6 +20,55 @@
   <a href = "mailto:juan3178316@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"/></a>
 </p>
 </br>
+
+```kotlin
+package dev.juan3178316.register
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class MainActivity : AppCompatActivity() {
+	override fun onCreate(savedInstanceState: Bundle?) {
+		super.onCreate(savedInstanceState)
+		setContentView(R.layout.activity_main)
+		val typeLang = Programmer.Language
+
+		val juan3178 = Programmer( "Juan3178", "juan3178316", arrayOf( typeLang.HTML, typeLang.CSS, typeLang.JAVASCRIPT, typeLang.TYPESCRIPT, typeLang.KOTLIN, typeLang.MARKDOWN, typeLang.SVG, typeLang.REGEX))
+		println("${juan3178.name}")
+		juan3178.code()
+		println(juan3178.followers())
+		println(juan3178.following())
+
+		// found in: https://github.com/mouredev/KotlinDesdeCero
+		class Programmer(val name: String, val userName: String, val languages: Array<Language>) {
+			enum class Language {
+				HTML,
+				CSS,
+				JAVASCRIPT,
+				TYPESCRIPT,
+				KOTLIN,
+				MARKDOWN,
+				SVG,
+				REGEX
+			}
+
+			fun code() {
+				for(language in languages) {
+					println("I'm programming in $language")
+				}
+			}
+			fun followers() {
+				return "https://github.com/$userName?tab=followers"
+			}
+			fun following() {
+				return "https://github.com/$userName?tab=following"
+			}
+		}
+	}
+}
+```
+
+</br>
 </br>
 
 ## known technologies :bulb:
