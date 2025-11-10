@@ -22,51 +22,15 @@
 </br>
 
 ```kotlin
-package dev.juan3178316.register
-
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
-
-class MainActivity : AppCompatActivity() {
-	override fun onCreate(savedInstanceState: Bundle?) {
-		super.onCreate(savedInstanceState)
-		setContentView(R.layout.activity_main)
-		val typeLang = Programmer.Language
-
-		val juan3178 = Programmer( "Juan3178", "juan3178316", arrayOf( typeLang.HTML, typeLang.CSS, typeLang.JAVASCRIPT, typeLang.TYPESCRIPT, typeLang.KOTLIN, typeLang.MARKDOWN, typeLang.SVG, typeLang.REGEX))
-		println("${juan3178.name}")
-		juan3178.code()
-		println(juan3178.followers())
-		println(juan3178.following())
-
-		// found in: https://github.com/mouredev/KotlinDesdeCero
-		class Programmer(val name: String, val userName: String, val languages: Array<Language>) {
-			enum class Language {
-				HTML,
-				CSS,
-				JAVASCRIPT,
-				TYPESCRIPT,
-				KOTLIN,
-				MARKDOWN,
-				SVG,
-				REGEX
-			}
-
-			fun code() {
-				for(language in languages) {
-					println("I'm programming in $language")
-				}
-			}
-			fun followers() {
-				return "https://github.com/$userName?tab=followers"
-			}
-			fun following() {
-				return "https://github.com/$userName?tab=following"
-			}
-		}
-	}
+fun Main() {
+val juan3178 = Programmer( "Juan3178", "juan3178316", arrayOf( Language.HTML, Language.CSS, Language.JAVASCRIPT, Language.TYPESCRIPT, Language.KOTLIN, Language.MARKDOWN, Language.SVG, Language.REGEX));
+ println("${juan3178.name}")
+juan3178.code()
+juan3178.followers()
+juan3178.following()
 }
 ```
+[Execute this code here :3](https://pl.kotl.in/jvrx_eL6R?readOnly=false&theme=darcula)
 
 </br>
 </br>
