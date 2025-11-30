@@ -44,6 +44,9 @@ juan3178.following()
 <div align="center">
 
 [![ ](https://skillicons.dev/icons?i=github,vscode,gmail,instagram,twitter,androidstudio&perline=3)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/JannisX11/blockbench/refs/heads/master/icon_full.png" width="50" style="border-radius: 10px;" alt="blockbench icon"></img>
+<img src="https://raw.githubusercontent.com/JannisX11/snowstorm/refs/heads/master/icon_full.png" width="50" style="border-radius: 10px;" alt="snowstorm icon"></img>
 </div>
 
 ### Programming languages :open_file_folder:
