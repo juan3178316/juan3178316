@@ -20,7 +20,7 @@
   <a href="https://youtube.com/@Juan_3178" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Juan3178"/></a>
   <a href="https://tiktok.com/@juan.3178" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@Juan.3178"/></a>
   <a href="https://curseforge.com/members/juan3178" target="blank"><img align="center" src="https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white" alt="Juan3178"/></a>
-  <a href = "mailto:juan3178316@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"/></a>
+  <a href = "mailto:examplecraftlatam@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="My E-mail"/></a>
 </div>
 </br>
 
