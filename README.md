@@ -69,8 +69,8 @@ juan3178.following()
 <!--change 'https://github-readme-stats.vercel.app' to 'https://readme-stats-fast.vercel.app'. warning, the new github readme stats not support the 'stats format' :c-->
 
 [![Profile stats (fast version)](https://readme-stats-fast.vercel.app/api?username=juan3178316&theme=transparent&show_icons=true&count_private=false&icon_color=ae3cff&text_color=09e806&title_color=e8d106&ring_color=ae3cff)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs | percentages (fast version)](https://github-readme-stats.vercel.app/api/top-langs/?username=juan3178316&layout=pie&langs_count=20&theme=transparent&stats_format=percentages)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs | bytes](https://github-readme-stats.vercel.app/api/top-langs/?username=juan3178316&layout=compact&langs_count=20&theme=transparent&stats_format=bytes&hide_title=true&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs | percentages (fast version)](https://readme-stats-fast.vercel.app/api/top-langs/?username=juan3178316&layout=pie&langs_count=20&theme=transparent&stats_format=percentages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs | bytes](https://readme-stats-fast.vercel.app/api/top-langs/?username=juan3178316&layout=compact&langs_count=20&theme=transparent&stats_format=bytes&hide_title=true&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Go to source](https://stable-github-profile-trophy.vercel.app/?username=juan3178316&theme=radical&row=3&column=3&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
