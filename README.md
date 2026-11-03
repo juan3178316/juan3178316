@@ -74,15 +74,16 @@ juan3178.following()
 
 [![Go to source](https://stable-github-profile-trophy.vercel.app/?username=juan3178316&theme=radical&row=3&column=3&margin-h=15&margin-w=5&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<table align="center" border="3">
+<table align="center" border="4">
     <tbody>
         <tr>
-            <th scope="col" style="text-align:center; font-family:monospace; background-image: linear-gradient(to right, #00FF00, green, #A968FF, purple); -webkit-background-clip: text; background-clip: text; color: transparent;" colspan="3">GitHub achievements</th>
+            <th scope="col" style="text-align:center; font-family:monospace; background-image: linear-gradient(to right, #00FF00, green, #A968FF, purple); -webkit-background-clip: text; background-clip: text; color: transparent;" colspan="4">GitHub achievements</th>
         </tr>
         <tr>
             <td scope="col" style="text-align:center;"><img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="Pull shark" width="48" height="48" class="img-responsive atto_image_button_middle"></td>
             <td scope="col" style="text-align:center;"><img src="https://github.githubassets.com/assets/quickdraw-default--light-medium-5450fadcbe37.png" alt="Quickdraw" width="48" height="48" class="img-responsive atto_image_button_middle"></td>
             <td scope="col" style="text-align:center;"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="Yolo" width="48" height="48" class="img-responsive atto_image_button_middle"></td>
+            <td scope="col" style="text-align:center;"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" alt="Pair_extraordinaire" width="48" height="48" class="img-responsive atto_image_button_middle"></td>
         </tr>
     </tbody>
 </table>
