@@ -65,7 +65,7 @@ juan3178.following()
 ## statistics :bar_chart:
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juan3178316&bg_color=24292f&color=adbac7&line=adbac7&point=539bf5&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)<!--![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juan3178316&theme=transparent)-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=juan3178316&theme=github-dark-dimmed&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<!--![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juan3178316&theme=transparent)-->
 <!--change 'https://github-readme-stats.vercel.app' to 'https://readme-stats-fast.vercel.app' & 'https://GitHub-readme-stats.dev' warning, the new github readme stats not support the 'stats format' :c-->
 
 [![Profile stats (fast version)](https://readme-stats-fast.vercel.app/api?username=juan3178316&theme=transparent&show_icons=true&count_private=false&icon_color=ae3cff&text_color=09e806&title_color=e8d106&ring_color=ae3cff)](https://github.com/anuraghazra/github-readme-stats)
